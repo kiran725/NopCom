@@ -20,7 +20,7 @@ public class TC_HomeTest_001 extends BaseClass {
 		logger.info("Clicking on Login button in homepage link");
 
 		Thread.sleep(2000);
-		if (driver.getTitle().equals("nopCommerce demo store. Login")) {
+		if (driver.getTitle().equals("nopCommerceeeeeeeeeeee demo store. Login")) {
 			Assert.assertTrue(true);
 			logger.info("Login page opned successfully");
 
